@@ -1,0 +1,66 @@
+{
+  "trands": [
+    {
+      "id": 1,
+      "heading": "",
+      "text": "Over the span of the satellite record, Arctic sea ice has been declining significantly, while sea ice in the Antarctichas increased very slightly",
+      "image": "http://localhost:3000/images/first_image.jpg"
+    },
+    {
+      "id": 2,
+      "heading": "So what does the new record for the lowest level of winter ice actually mean?",
+      "text": "The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever happens with climate change. Even if the Arctic continues to be one of the fastest-warming regions of the world, it will always be plunged into bitterly cold polar dark every winter. And year by year, for all kinds of natural reasons, there's huge variety of the state of the ice",
+      "image": "http://localhost:3000/images/second_image.jpg"
+    }
+  ],
+  "explore": [
+    {
+      "id": 1,
+      "text": "Cooking",
+      "followers": "6.5M",
+      "mainImage": "http://localhost:3006/images/explore1.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80", "https://picsum.photos/90"],
+      "follow": true
+    },
+    {
+      "id": 2,
+      "text": "Nature",
+      "followers": "400K",
+      "mainImage": "http://localhost:3006/images/explore2.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80"],
+      "follow": true
+    },
+    {
+      "id": 3,
+      "text": "Travel",
+      "followers": "104K",
+      "mainImage": "http://localhost:3006/images/explore3.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80"],
+      "follow": false
+    },
+    {
+      "id": 4,
+      "text": "Science",
+      "followers": "203K",
+      "mainImage": "http://localhost:3006/images/explore4.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80", "https://picsum.photos/90"],
+      "follow": true
+    },
+    {
+      "id": 5,
+      "text": "Climate",
+      "followers": "2M",
+      "mainImage": "http://localhost:3006/images/explore5.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80", "https://picsum.photos/90"],
+      "follow": true
+    },
+    {
+      "id": 6,
+      "text": "Music",
+      "followers": "80K",
+      "mainImage": "http://localhost:3006/images/explore6.jpg",
+      "images": ["https://picsum.photos/70", "https://picsum.photos/80"],
+      "follow": false
+    }
+  ]
+}

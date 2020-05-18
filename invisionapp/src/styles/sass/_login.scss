@@ -1,0 +1,93 @@
+.Login {
+  background-color: #EEEEF2;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  div {
+    flex: 1;
+  }
+  .first-container {
+    position: relative;
+    left: 10rem;
+    top: 8rem;
+    h1 {
+      font-size: 3rem;
+      margin-bottom: auto;
+      color: #3C3E46;
+    }
+    .create-text {
+      display: block;
+      height: auto;
+      margin-top: 20px;
+      font-size: 21px;
+      margin-bottom: 2rem;
+    }
+    .email-text {
+      margin-top: 2rem;
+      font-weight: bold;
+      font-size: 14px;
+      color: #84889A;
+      margin-bottom: 2rem;
+    }
+    .my-facebook-button-class {
+      padding: 20px;
+      width: 20rem;
+      background-color: white;
+      border-style: none;
+      font-size: 1.3rem;
+      text-align: left;
+
+      i.fa {
+        display: inline-block;
+        border-radius: 50%;
+        box-shadow: 0px 0px 2px #888;
+        padding: 0.12em 0.3em;
+        margin-right: 15px;
+        color: white;
+        background-color: #1977F3;
+      }
+    }
+    .input-container {
+      display: flex;
+      width: 20rem;
+      margin-bottom: 15px;
+      height: 4rem;
+    }
+    .input-field {
+      width: 100%;
+      padding: 10px 10px 10px 0;
+      outline: none;
+      border: none;
+      font-weight: bold;
+    }
+    i.icon {
+      padding: 26px 10px 10px;
+      background: white;
+      color: #6648CD;
+      min-width: 18px;
+      text-align: cente
+    }
+
+    i.fa-lock {
+      font-size: 20px;
+    }
+
+    .sign-up {
+      width: 100%;
+      border: none;
+      font-weight: bold;
+      font-size: 19px;
+      background-color: #6648CD;
+      color: white;
+      border-radius: 5px;
+    }
+    .having-account-text {
+      font-size: 14px;
+      font-weight: bold;
+    }
+    
+  }
+}
+
+
+
